@@ -1,1 +1,1 @@
-#include<GL/gl
+#include<GL/glut.h
