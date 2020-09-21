@@ -1,2 +1,2 @@
 #include<GL/glut.h>
-#include<stdi
+#include<stdio
