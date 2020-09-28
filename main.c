@@ -1,3 +1,3 @@
 #include<GL/glut.h>
 #include<stdio.h>
-#in
+#incl
