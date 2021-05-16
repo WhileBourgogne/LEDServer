@@ -6,4 +6,4 @@ float inpvals[] = {100,200,130,450,130,400,150,200,440,330,340,200,100,100,200,1
 int it=0;
 float adapted_inpvals[28]={0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 
-void adapt(float iarr[]
+void adapt(float iarr[],
