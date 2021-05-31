@@ -7,4 +7,4 @@ int it=0;
 float adapted_inpvals[28]={0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 
 void adapt(float iarr[],int it) {
-  int arrleng=(sizeof 
+  int arrleng=(sizeof ia
