@@ -10,4 +10,4 @@ void adapt(float iarr[],int it) {
   int arrleng=(sizeof iarr / sizeof *iarr)-8;
   for(int i=0;i<28;i++)
   {
-  
+    
