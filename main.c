@@ -13,4 +13,4 @@ void adapt(float iarr[],int it) {
     if((it+27)<arrleng)
       adapted_inpvals[i]=iarr[i+it];
     else
-      adapted_inpvals[i]=iarr[(i+it)-
+      adapted_inpvals[i]=iarr[(i+it)-ar
