@@ -16,3 +16,5 @@ void adapt(float iarr[],int it) {
       adapted_inpvals[i]=iarr[(i+it)-arrleng];
   }
 }
+
+v
