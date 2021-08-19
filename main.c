@@ -17,4 +17,4 @@ void adapt(float iarr[],int it) {
   }
 }
 
-v
+voi
