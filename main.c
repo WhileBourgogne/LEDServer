@@ -17,4 +17,4 @@ void adapt(float iarr[],int it) {
   }
 }
 
-void key(unsigned char 
+void key(unsigned char d,i
