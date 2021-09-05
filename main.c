@@ -19,4 +19,4 @@ void adapt(float iarr[],int it) {
 
 void key(unsigned char d,int x,int y) {
   if(d=='d') {
-  
+    
