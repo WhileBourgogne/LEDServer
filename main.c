@@ -20,4 +20,4 @@ void adapt(float iarr[],int it) {
 void key(unsigned char d,int x,int y) {
   if(d=='d') {
     it++;
-    if(it>6) 
+    if(it>6) {
