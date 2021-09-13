@@ -21,4 +21,4 @@ void key(unsigned char d,int x,int y) {
   if(d=='d') {
     it++;
     if(it>6) {
- 
+   
