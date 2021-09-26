@@ -24,4 +24,4 @@ void key(unsigned char d,int x,int y) {
       it=0;
     }
     display();
-  
+  }
