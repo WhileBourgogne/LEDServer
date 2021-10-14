@@ -28,3 +28,4 @@ void key(unsigned char d,int x,int y) {
   if(d=='a') {	
     it--;
     if(it<0) {
+   
