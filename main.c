@@ -30,3 +30,4 @@ void key(unsigned char d,int x,int y) {
     if(it<0) {
       it=6;
     }
+    
