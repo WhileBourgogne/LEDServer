@@ -31,3 +31,4 @@ void key(unsigned char d,int x,int y) {
       it=6;
     }
     display();
+ 
