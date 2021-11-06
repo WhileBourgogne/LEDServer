@@ -35,3 +35,4 @@ void key(unsigned char d,int x,int y) {
 }
 
 void rect() {
+  g
