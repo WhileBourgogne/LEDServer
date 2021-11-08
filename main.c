@@ -35,4 +35,4 @@ void key(unsigned char d,int x,int y) {
 }
 
 void rect() {
-  glBegin(GL_
+  glBegin(GL_LIN
