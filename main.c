@@ -37,4 +37,4 @@ void key(unsigned char d,int x,int y) {
 void rect() {
   glBegin(GL_LINE_LOOP);
   glVertex2f(100,100);
-  gl
+  glV
