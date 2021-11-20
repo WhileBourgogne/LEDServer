@@ -38,4 +38,4 @@ void rect() {
   glBegin(GL_LINE_LOOP);
   glVertex2f(100,100);
   glVertex2f(700,100);
-  glV
+  glVert
