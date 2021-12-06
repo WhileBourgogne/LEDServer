@@ -39,4 +39,4 @@ void rect() {
   glVertex2f(100,100);
   glVertex2f(700,100);
   glVertex2f(700,500);
-  glVertex2f(100
+  glVertex2f(100,
