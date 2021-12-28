@@ -40,4 +40,4 @@ void rect() {
   glVertex2f(700,100);
   glVertex2f(700,500);
   glVertex2f(100,500);
-  g
+  glEn
