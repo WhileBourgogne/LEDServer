@@ -42,3 +42,4 @@ void rect() {
   glVertex2f(100,500);
   glEnd();
 }
+
