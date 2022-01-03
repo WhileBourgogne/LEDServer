@@ -43,3 +43,4 @@ void rect() {
   glEnd();
 }
 
+vo
