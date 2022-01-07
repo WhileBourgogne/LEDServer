@@ -43,4 +43,4 @@ void rect() {
   glEnd();
 }
 
-void grap
+void graph
