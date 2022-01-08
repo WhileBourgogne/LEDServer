@@ -43,4 +43,4 @@ void rect() {
   glEnd();
 }
 
-void graph(float arr[]
+void graph(float arr[]) 
