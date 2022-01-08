@@ -43,4 +43,4 @@ void rect() {
   glEnd();
 }
 
-void graph(floa
+void graph(float
