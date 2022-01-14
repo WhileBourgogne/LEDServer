@@ -44,3 +44,4 @@ void rect() {
 }
 
 void graph(float arr[]) {
+  
