@@ -44,4 +44,4 @@ void rect() {
 }
 
 void graph(float arr[]) {
-  glBegin(G
+  glBegin(GL_L
