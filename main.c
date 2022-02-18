@@ -46,4 +46,4 @@ void rect() {
 void graph(float arr[]) {
   glBegin(GL_LINE_LOOP);
   glVertex2f(100,100);
-  glVertex2f(
+  glVertex2f(700,1
