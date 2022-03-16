@@ -48,4 +48,4 @@ void graph(float arr[]) {
   glVertex2f(100,100);
   glVertex2f(700,100);
   for(int i=700;i>=100;i-=25) {
-    glVertex2f(i,arr[(i/25
+    glVertex2f(i,arr[(i/25)
