@@ -50,4 +50,4 @@ void graph(float arr[]) {
   for(int i=700;i>=100;i-=25) {
     glVertex2f(i,arr[(i/25)-1]);
   }
-  
+  glEn
