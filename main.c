@@ -51,3 +51,5 @@ void graph(float arr[]) {
     glVertex2f(i,arr[(i/25)-1]);
   }
   glEnd();
+}
+
