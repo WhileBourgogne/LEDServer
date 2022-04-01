@@ -53,4 +53,5 @@ void graph(float arr[]) {
   glEnd();
 }
 
-void display() 
+void display() {
+ 
