@@ -54,4 +54,4 @@ void graph(float arr[]) {
 }
 
 void display() {
-  glCl
+  glCle
