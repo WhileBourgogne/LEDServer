@@ -54,4 +54,4 @@ void graph(float arr[]) {
 }
 
 void display() {
-  glClear(GL_COLOR_BU
+  glClear(GL_COLOR_BUF
