@@ -55,4 +55,4 @@ void graph(float arr[]) {
 
 void display() {
   glClear(GL_COLOR_BUFFER_BIT);
-  glColor
+  glColor3f(
