@@ -58,4 +58,4 @@ void display() {
   glColor3f(1.0,0.0,0.0);
   rect();
   adapt(inpvals,it);
-  g
+  gr
