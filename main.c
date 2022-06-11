@@ -59,4 +59,4 @@ void display() {
   rect();
   adapt(inpvals,it);
   graph(adapted_inpvals);
-  g
+  glFl
