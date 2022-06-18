@@ -61,3 +61,5 @@ void display() {
   graph(adapted_inpvals);
   glFlush();
 }
+
+v
