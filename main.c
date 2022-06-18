@@ -60,3 +60,4 @@ void display() {
   adapt(inpvals,it);
   graph(adapted_inpvals);
   glFlush();
+}
