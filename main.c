@@ -62,4 +62,4 @@ void display() {
   glFlush();
 }
 
-void ini
+void init()
