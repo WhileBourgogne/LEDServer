@@ -63,4 +63,4 @@ void display() {
 }
 
 void init() {
-  glClearColor
+  glClearColor(0
