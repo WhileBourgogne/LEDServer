@@ -64,4 +64,4 @@ void display() {
 
 void init() {
   glClearColor(0.0,0.0,0.0,0.0);
-  glMatrixMode(GL_PROJEC
+  glMatrixMode(GL_PROJECTI
