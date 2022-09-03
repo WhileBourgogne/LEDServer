@@ -66,4 +66,4 @@ void init() {
   glClearColor(0.0,0.0,0.0,0.0);
   glMatrixMode(GL_PROJECTION);
   glLoadIdentity();
-  gluOrtho2D(
+  gluOrtho2D(0
