@@ -68,3 +68,4 @@ void init() {
   glLoadIdentity();
   gluOrtho2D(0,750,0,550);
   glMatrixMode(GL_MODELVIEW);
+}
