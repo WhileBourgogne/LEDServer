@@ -70,4 +70,4 @@ void init() {
   glMatrixMode(GL_MODELVIEW);
 }
 
-int m
+int main
