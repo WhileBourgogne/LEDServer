@@ -72,4 +72,4 @@ void init() {
 
 int main(int argc,char **argv) {
   glutInit(&argc,argv);
-  glutInitDisplayMode(GLUT_SINGLE|G
+  glutInitDisplayMode(GLUT_SINGLE|GLUT
