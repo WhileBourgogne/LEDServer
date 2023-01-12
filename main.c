@@ -76,3 +76,4 @@ int main(int argc,char **argv) {
   glutInitWindowSize(800,600);
   glutInitWindowPosition(10,10);
   glutCreateWindow("demo");
+  
