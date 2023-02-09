@@ -77,4 +77,4 @@ int main(int argc,char **argv) {
   glutInitWindowPosition(10,10);
   glutCreateWindow("demo");
   glutKeyboardFunc(key);
-  glutD
+  glutDis
