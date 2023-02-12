@@ -79,4 +79,4 @@ int main(int argc,char **argv) {
   glutKeyboardFunc(key);
   glutDisplayFunc(display);
   init();
-  g
+  glut
